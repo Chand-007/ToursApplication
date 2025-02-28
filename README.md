@@ -18,13 +18,13 @@ This is a simple React application that fetches and displays a list of tours. It
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/react-tours-project.git
+   **git clone https://github.com/Chand-007/ToursApplication.git**
 
-2. Go into TOURSAPPLICATION directory
-    cd ToursApplication
+2. Go into TOURSAPPLICATION directory:
+   **cd ToursApplication** 
 
-3. Install dependencies and start application
-    npm install && npm start
+3. Install dependencies and start application:
+    **npm install && npm start**
 
 4. Open port 3000 in your local machine
 
